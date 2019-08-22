@@ -1,0 +1,6 @@
+deps/src/*
+deps/build/*
+deps/downloads/*
+deps/install/*
+deps/build.log
+*.swp
